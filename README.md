@@ -1,7 +1,4 @@
-# Walmart_Sales_Using_RandomForestRegressor
-Walmart_Sales_RandomForestRegressor(Machine Learning)
-
-## Walmart Sales Prediction Using Random Forest Regressor
+# Walmart Sales Prediction Using Random Forest Regressor
 
 ### Overview
 
