@@ -1,8 +1,8 @@
-# Walmart Sales Prediction Using Random Forest Regressor
+# Walmart Weekly Sales Prediction Using Random Forest Regressor
 
 ### Overview
 
-In this project, we aim to predict Walmart sales using machine learning techniques. Specifically, we utilize the RandomForestRegressor algorithm, which is well-suited for regression tasks and can handle complex relationships in the data. The dataset for this analysis is `Walmart_sales.csv`, which includes historical sales data from Walmart.
+In this project, we aim to predict Walmart weekly sales using machine learning techniques. Specifically, we utilize the RandomForestRegressor algorithm, which is well-suited for regression tasks and can handle complex relationships in the data. The dataset for this analysis is `Walmart_sales.csv`, which includes historical sales data from Walmart.
 
 ### Libraries Used
 
